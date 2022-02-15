@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @renadalahmadi
-- 👀 I’m interested in AI and Data Science 
-- 🌱 I’m currently learning NLP, Computer Vision and Data analysis.
-- 💞️ I’m looking to collaborate on Arabic Language Processing projects 
 - You can find the code of Day-1 of Machine Learning bootcamp (Google solutions challenge).
 - 📫 How to reach me, Renadalhmadi1999@gmail.com
 
