@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @renadalahmadi
-- You can find the code of Day-1 of Machine Learning bootcamp (Google solutions challenge).
+- You can find the code of Day-1 of Data Science/ ML bootcamp (Google solution challenge).
 - 📫 How to reach me, Renadalhmadi1999@gmail.com
 
 <!---
